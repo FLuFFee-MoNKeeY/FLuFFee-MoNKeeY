@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @FLuFFee-MoNKeeY
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning python, CSS, HTML, c#, SQL, MySql and javascript. Wish me luck!!
+- 💞️ I’m looking to collaborate on many different projects so I can develop my skills
+- 📫 How to reach me: email @ fluffeemonkeey@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm self learning and tackling this on my own, any advice or guidance to help direct me and get me into the field would be greatly appreciated
